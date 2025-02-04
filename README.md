@@ -13,7 +13,7 @@ Esta aplicación realiza sorteo entre amigos, la cual puedes agregar el nombre d
 
 ## Capturas de Pantalla
 
-![Pantalla 1]("C:\Users\kevin\OneDrive\Imágenes\Capturas de pantalla\App.png")
+![Pantalla 1](C:\Users\kevin\OneDrive\Imágenes\Capturas de pantalla\App.png)
 
 ## Contacto
 Gmail: kevin20122012l@gmail.com 
