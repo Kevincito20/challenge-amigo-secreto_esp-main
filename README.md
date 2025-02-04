@@ -16,5 +16,5 @@ Esta aplicación realiza sorteo entre amigos, la cual puedes agregar el nombre d
 ![Pantalla 1]("C:\Users\kevin\OneDrive\Imágenes\Capturas de pantalla\App.png")
 
 ## Contacto
-kevin20122012l@gmail.com 
-GitHub: [tu_usuario](https://github.com/tu_usuario)
+Gmail: kevin20122012l@gmail.com 
+GitHub: https://github.com/Kevincito20
